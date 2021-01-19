@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: demo-docker:latest
+        image: sajal46/demo-docker:latest
         ports:
         - containerPort: 80
