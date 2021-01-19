@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: demo-docker
-        image: demo-docker:latest
+        image: docker.io/sajal46/demo-docker
         ports:
         - containerPort: 80
